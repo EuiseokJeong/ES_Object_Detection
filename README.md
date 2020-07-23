@@ -1,6 +1,6 @@
 # ES_Object_Detection
 
-## 초기 
+## 초기설정
 
 git init : git의 관리하에 들어감
 
