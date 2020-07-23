@@ -1,5 +1,7 @@
 # ES_Object_Detection
 
+## 초기 
+
 git init : git의 관리하에 들어감
 
 git config --global user.name "EuiseokJeong"
